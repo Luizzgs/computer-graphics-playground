@@ -8,8 +8,8 @@ Utilizei a biblioteca numpy para realizar o processamento e conversão de cores.
     
 
 ### 2. [Filtros](filtros/script.py)
-Foi utilizada a imagem `cria.png` para realizar a conversão de espaço de cores. A imagem foi convertida para os espaços de cores `Cinza` através da função `cv2.cvtColor()` e para `Binário` através da função `cv2.threshold()`. Além disso, foi feita manualmente a limiarização para `Binário`, transformando os pixels com valor maior que 127 para 255 (branco) e com valor menor para 0 (preto).
+
 
 ### 3. [Transformação](transformacao/script.py)
-Foi utilizada a imagem `tigre.png` para a aplicação de filtros. Foram aplicados os filtros `Média` e `Mediana` através da passagem de um elemento estruturante de 3x3 pela imagem.
+
 
