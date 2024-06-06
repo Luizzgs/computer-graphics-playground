@@ -3,7 +3,7 @@ Este documento descreve a implementação de filtros e transformações de image
 
 ## Execução
 Para rodar o script, somente ir na pasta de cada script e executar 
-` python script.py`
+`python script.py`
 
 
 
