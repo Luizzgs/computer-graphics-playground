@@ -1,10 +1,11 @@
 # Processamento básico de imagens
 Este documento descreve a implementação de filtros e transformações de imagem utilizando Python, sem o uso da biblioteca OpenCV. As bibliotecas utilizadas são Pillow e NumPy para manipulação de imagens.
 
-## Dependências
-Para rodar o script, é necessário instalar as seguintes bibliotecas:
-pillow 
-numpy
+## Execução
+Para rodar o script, somente ir na pasta de cada script e executar 
+` python script.py`
+
+
 
 ## Funções Implementadas
 ### Separar Canais RGB
